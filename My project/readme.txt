@@ -1,1 +1,1 @@
-Jogo realizada para a Capacitacao trainee do periodo 22.2
+Jogo realizado para a Capacitacao Trainee do periodo 22.2
